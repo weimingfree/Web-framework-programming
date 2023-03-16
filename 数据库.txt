@@ -1,0 +1,9 @@
+type_info:类别,类别id
+admin_pw:管理员账号，管理员密码
+
+student_pw:学生学号，学生密码
+teacher_pw:教师工号，教师密码
+student_info:学生学号，学生姓名
+teacher_info:教师工号，教师姓名
+course_info：课程号，课程名，老师
+course_sr：隐藏id，课程号，课程名，教师工号，教师名，学生学号，学生名字
